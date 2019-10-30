@@ -43,7 +43,9 @@ const pluralMap = {
 
   is: ICELANDIC,
 
-  et: GERMAN
+  et: GERMAN,
+  lt: GERMAN,
+  lv: GERMAN
 };
 
 export default pluralMap;
